@@ -1,2 +1,2 @@
-# griffithgroup
+# GriffithGroup
 Griffith Group international 
